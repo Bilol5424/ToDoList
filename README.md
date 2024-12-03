@@ -43,8 +43,8 @@ ToDoList — это веб-приложение, разработанное на
 ## **Как запустить проект**
 ### 1. Клонировать репозиторий:
 ```bash
-git clone https://github.com/твой-логин-на-GitHub/TodoList-ASP.NET-Core.git
-cd TodoList-ASP.NET-Core
+git clone https://github.com/Bilol5424/ToDoList.git
+cd ToDoList
 ```
 
 ### 2. Настроить базу данных:
